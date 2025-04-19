@@ -1,3 +1,5 @@
 *.pdf
 auair2019/
 *.zip
+wandb/
+detr-auair-output/
