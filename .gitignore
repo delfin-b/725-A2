@@ -2,4 +2,4 @@
 auair2019/
 *.zip
 wandb/
-detr-auair-output/
+detr-auair-output/saved_detr_model/model.safetensors
