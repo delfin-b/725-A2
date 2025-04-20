@@ -23,7 +23,7 @@ This notebook performs the training of the DETR model:
 - Saves the model and processor to disk
 - Logs metrics using [Weights & Biases](https://wandb.ai)
 
-> Training was done on an NVIDIA RTX A4000 GPU and took approximately 14 hours.
+> Training was done on an NVIDIA RTX A4000 GPU and took approximately 10 hours.
 
 ###  `eval.ipynb`
 This notebook handles:
